@@ -1,0 +1,2 @@
+model,split,n,accuracy,macro_f1_5class,macro_f1_4class,model_snapshot,prompt_sha256,classifier_config_hash,input_tokens_total,output_tokens_total
+Prompted GPT-4o,final_test,72,0.5277777777777778,0.40469945355191256,0.5058743169398907,gpt-4o-2024-08-06,9b91a912cda2e1d974b3f9892b0b5e28953394fab3fdc8a068da534d6e532e7a,d835d3cde74ac59587a3d1196ab1eae40bf4fae75d412cf2fd2588eab44fa2fd,251040,587

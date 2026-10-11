@@ -1,0 +1,3 @@
+model,split,n,accuracy,macro_f1_5class,macro_f1_4class
+TF-IDF + Logistic Regression,validation,68,0.5,0.42657807308970097,0.5332225913621262
+TF-IDF + Logistic Regression,test,72,0.4305555555555556,0.3204101701494469,0.4005127126868086

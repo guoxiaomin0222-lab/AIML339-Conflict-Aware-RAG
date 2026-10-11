@@ -1,0 +1,4 @@
+model,seed,best_epoch,best_val_macro_f1,best_val_selection_f1_4,test_loss,test_accuracy,test_macro_f1,test_macro_f1_4,checkpoint
+interaction_0_spread_0_original_eval,42,2,0.4198545224541429,0.5248181530676786,1.1102947716911633,0.5138888888888888,0.39806797853309484,0.4975849731663685,best_interaction_0_spread_0_original_eval_seed42.pt
+interaction_0_spread_0_original_eval,43,6,0.4945914445914446,0.6182393057393057,1.6382313146346457,0.625,0.4816260949256807,0.6020326186571009,best_interaction_0_spread_0_original_eval_seed43.pt
+interaction_0_spread_0_original_eval,44,6,0.4703641033052798,0.5879551291315998,1.5578214424313046,0.5833333333333334,0.45183150183150184,0.5647893772893773,best_interaction_0_spread_0_original_eval_seed44.pt

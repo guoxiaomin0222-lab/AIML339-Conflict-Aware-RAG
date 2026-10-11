@@ -1,0 +1,6 @@
+model,metric,n_runs,mean,sd,mean_pm_sd
+interaction_1_spread_0_original_eval,test_accuracy,3,0.5787037037037037,0.040093768693724,0.5787 ± 0.0401
+interaction_1_spread_0_original_eval,test_macro_f1,3,0.4690582223194865,0.02972558413437332,0.4691 ± 0.0297
+interaction_1_spread_0_original_eval,test_macro_f1_4,3,0.5863227778993582,0.03715698016796663,0.5863 ± 0.0372
+interaction_1_spread_0_original_eval,best_val_macro_f1,3,0.4826188748921112,0.023069908299121564,0.4826 ± 0.0231
+interaction_1_spread_0_original_eval,best_val_selection_f1_4,3,0.603273593615139,0.028837385373901927,0.6033 ± 0.0288

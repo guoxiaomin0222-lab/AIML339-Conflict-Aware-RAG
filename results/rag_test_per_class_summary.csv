@@ -1,0 +1,21 @@
+gold_label,condition,n_answers,expected_behavior_adherence_mean,answer_recall_mean,factual_grounding_mean,expected_behavior_adherence_n,answer_recall_n,factual_grounding_n
+Complementary information,bert,18,0.6666666666666666,,1.0,18,0,18
+Complementary information,llm_pipeline,18,0.6111111111111112,,0.9814814814814815,18,0,18
+Complementary information,oracle,18,0.6666666666666666,,0.9814814814814815,18,0,18
+Complementary information,standard,18,0.6111111111111112,,0.9735449735449736,18,0,18
+Conflict due to misinformation,bert,1,1.0,1.0,1.0,1,1,1
+Conflict due to misinformation,llm_pipeline,1,1.0,1.0,1.0,1,1,1
+Conflict due to misinformation,oracle,1,1.0,1.0,1.0,1,1,1
+Conflict due to misinformation,standard,1,1.0,1.0,1.0,1,1,1
+Conflict due to outdated information,bert,10,0.7,0.5,1.0,10,10,10
+Conflict due to outdated information,llm_pipeline,10,0.7,0.5,1.0,10,10,10
+Conflict due to outdated information,oracle,10,0.8,0.5,1.0,10,10,10
+Conflict due to outdated information,standard,10,0.7,0.5,1.0,10,10,10
+Conflicting opinions and research outcomes,bert,18,0.6666666666666666,,1.0,18,0,18
+Conflicting opinions and research outcomes,llm_pipeline,18,0.6111111111111112,,1.0,18,0,18
+Conflicting opinions and research outcomes,oracle,18,0.7222222222222222,,1.0,18,0,18
+Conflicting opinions and research outcomes,standard,18,0.2222222222222222,,1.0,18,0,18
+No conflict,bert,25,0.88,0.8333333333333334,0.84,25,24,25
+No conflict,llm_pipeline,25,0.92,0.875,0.84,25,24,25
+No conflict,oracle,25,0.92,0.875,0.84,25,24,25
+No conflict,standard,25,0.84,0.7916666666666666,0.9,25,24,25

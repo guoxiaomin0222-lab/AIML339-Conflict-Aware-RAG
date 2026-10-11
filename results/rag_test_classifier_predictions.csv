@@ -1,0 +1,73 @@
+example_id,question,gold_label,predicted_label,llm_predicted_label,bert_correct,llm_correct
+4,when was coffee first made into a drink?,Complementary information,Complementary information,Complementary information,True,True
+7,Where did the expression a bridge too far come from?,Conflict due to misinformation,No conflict,No conflict,False,False
+12,When does this year's Passover start?,Conflict due to outdated information,Conflict due to outdated information,No conflict,True,False
+19,when was the last person executed,Complementary information,Complementary information,Conflict due to outdated information,True,False
+39,How many times csk reached final in ipl?,No conflict,No conflict,No conflict,True,True
+44,How many cities in india has metro train?,Complementary information,Conflict due to outdated information,Conflict due to outdated information,False,False
+45,cost of plumber,Complementary information,Complementary information,Complementary information,True,True
+46,What is the title of Stephen King's most recent novel?,No conflict,Conflict due to outdated information,Conflict due to outdated information,False,False
+49,When did the british come to new zealand?,Complementary information,Complementary information,No conflict,True,False
+56,Who won the latest Ballon D'or?,Conflict due to outdated information,Conflict due to outdated information,No conflict,True,False
+57,who has the most green jackets from the masters?,No conflict,No conflict,No conflict,True,True
+60,who has the highest paid contract in the nba,No conflict,No conflict,Complementary information,True,False
+62,Does the Y chromosome determine only the male gender?,Complementary information,Conflicting opinions and research outcomes,Complementary information,False,True
+66,Can the 'big bang' theory and creationism coexist?,No conflict,Conflicting opinions and research outcomes,Complementary information,False,False
+74,Does the lunar cycle affect wine taste?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+77,Are morning people more productive than night owls?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+88,Are rats responsible for spreading bubonic plague?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+89,Are tax cuts beneficial for the economy?,Complementary information,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,False,False
+97,Should animals be used for research?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+109,Are the brains of men and women wired differently?,No conflict,Conflicting opinions and research outcomes,No conflict,False,True
+123,What date is Thanksgiving this year?,Conflict due to outdated information,Conflict due to outdated information,No conflict,True,False
+134,How many grand slams does Rafael Nadal have?,No conflict,No conflict,No conflict,True,True
+137,What is the name of the world's fastest supercomputer?,Conflict due to outdated information,No conflict,Conflict due to outdated information,False,True
+143,how many countries participated for the first time in the 2014 olympic winter games,No conflict,No conflict,No conflict,True,True
+147,how many students attend university of texas at austin,Conflict due to outdated information,Complementary information,No conflict,False,False
+151,who was the last person executed,Conflict due to outdated information,Complementary information,Conflict due to outdated information,False,True
+156,what is the most obese province,Complementary information,Conflict due to outdated information,Conflict due to outdated information,False,False
+161,Which GitHub repo has the most stars?,No conflict,No conflict,Complementary information,True,False
+169,Who is the chancellor of UMass Amherst?,No conflict,No conflict,No conflict,True,True
+172,Does drinking alcohol literally kill brain cells?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+173,Who is the X Corp.'s CEO?,No conflict,No conflict,No conflict,True,True
+176,who was the president during 1971 war,Complementary information,Complementary information,No conflict,True,False
+177,who has the biggest airport,Complementary information,Complementary information,No conflict,True,False
+181,who is the only leader to be elected pm three times,Complementary information,No conflict,Complementary information,False,True
+185,Who are the latest champions of the North America's oldest professional sports trophy?,No conflict,No conflict,No conflict,True,True
+187,What is the most powerful processor on the latest iPhone models?,Conflicting opinions and research outcomes,No conflict,No conflict,False,False
+195,Can penguins survive in warm weather?,Complementary information,Conflicting opinions and research outcomes,Complementary information,False,True
+198,Is a degree necessary to become a successful graphic designer?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Complementary information,True,False
+208,Can cats truly understand human emotions?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,No conflict,True,False
+229,Can the Paleo diet cause thyroid problems?,No conflict,Conflicting opinions and research outcomes,No conflict,False,True
+231,Is it safe to place dental implants in one day?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Complementary information,True,False
+238,Where will the upcoming International Mathematical Olympiad (IMO) be hosted?,No conflict,Conflict due to outdated information,No conflict,False,True
+245,when does a car have to be smogged,Complementary information,Complementary information,Complementary information,True,True
+247,Does hypnotherapy work for smoking cessation?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+251,when did dvds come out,Complementary information,Complementary information,No conflict,True,False
+264,Does talking to plants help them grow?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Complementary information,True,False
+266,Can beer help with lactation in nursing mothers?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Complementary information,True,False
+267,When was the abacus invented in ancient china?,Conflicting opinions and research outcomes,No conflict,Complementary information,False,False
+268,who was elected president in january 2006,No conflict,Complementary information,No conflict,False,True
+275,Can intermittent fasting slow down the aging process?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+277,who permitted the british to establish their company,No conflict,Complementary information,Complementary information,False,False
+286,Does blood turn blue when it is deoxygenated?,No conflict,Conflicting opinions and research outcomes,No conflict,False,True
+292,which city is the fashion capital,Conflicting opinions and research outcomes,Complementary information,No conflict,False,False
+295,what city has the most population in the us,No conflict,Conflict due to outdated information,No conflict,False,True
+305,Can horses vomit?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,No conflict,True,False
+312,who holds the record for most gold medals,No conflict,No conflict,No conflict,True,True
+321,Does melting sea ice contribute to sea level rise?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+329,Do cameras reduce crime?,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,Conflicting opinions and research outcomes,True,True
+350,Who is the latest French player to win the Ballon d'Or?,No conflict,No conflict,Conflict due to outdated information,True,False
+356,who won the 2017 open tennis tournament,No conflict,No conflict,No conflict,True,True
+357,who sings the happiest girl,Complementary information,Complementary information,No conflict,True,False
+367,how much maternity leave are mothers entitled to,Complementary information,Complementary information,Complementary information,True,True
+374,Can women attend universities in Afghanistan?,No conflict,Complementary information,No conflict,False,True
+386,when was christianity became the official religion,Complementary information,Complementary information,No conflict,True,False
+387,What is Croatia's current national currency?,Conflict due to outdated information,Conflict due to outdated information,No conflict,True,False
+400,How many children does Leonardo DiCaprio have?,No conflict,No conflict,No conflict,True,True
+405,How many novels has Stephen King published?,Conflict due to outdated information,No conflict,Conflict due to outdated information,False,True
+421,who wrote the song photograph by ringo starr?,No conflict,No conflict,No conflict,True,True
+424,who was the first elected president of pakistan?,No conflict,No conflict,Conflict due to misinformation,True,False
+426,what is the meaning of auv in cars?,Complementary information,Complementary information,Complementary information,True,True
+435,"How many publicly traded American companies have, at any point, had a market capitalization in excess of $3 trillion?",Conflict due to outdated information,No conflict,No conflict,False,False
+452,Do Tesla and X Corp. have the same CEO?,Conflict due to outdated information,No conflict,No conflict,False,False

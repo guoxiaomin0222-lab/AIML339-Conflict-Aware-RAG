@@ -1,0 +1,73 @@
+question,true_label,predicted_label,true_class,predicted_class
+when was coffee first made into a drink?,1,1,Complementary,Complementary
+Where did the expression a bridge too far come from?,4,0,Misinformation,No Conflict
+When does this year's Passover start?,3,3,Outdated,Outdated
+when was the last person executed,1,1,Complementary,Complementary
+How many times csk reached final in ipl?,0,0,No Conflict,No Conflict
+How many cities in india has metro train?,1,3,Complementary,Outdated
+cost of plumber,1,1,Complementary,Complementary
+What is the title of Stephen King's most recent novel?,0,3,No Conflict,Outdated
+When did the british come to new zealand?,1,1,Complementary,Complementary
+Who won the latest Ballon D'or?,3,3,Outdated,Outdated
+who has the most green jackets from the masters?,0,0,No Conflict,No Conflict
+who has the highest paid contract in the nba,0,0,No Conflict,No Conflict
+Does the Y chromosome determine only the male gender?,1,2,Complementary,Conflicting Opinions
+Can the 'big bang' theory and creationism coexist?,0,2,No Conflict,Conflicting Opinions
+Does the lunar cycle affect wine taste?,2,2,Conflicting Opinions,Conflicting Opinions
+Are morning people more productive than night owls?,2,2,Conflicting Opinions,Conflicting Opinions
+Are rats responsible for spreading bubonic plague?,2,2,Conflicting Opinions,Conflicting Opinions
+Are tax cuts beneficial for the economy?,1,2,Complementary,Conflicting Opinions
+Should animals be used for research?,2,2,Conflicting Opinions,Conflicting Opinions
+Are the brains of men and women wired differently?,0,2,No Conflict,Conflicting Opinions
+What date is Thanksgiving this year?,3,3,Outdated,Outdated
+How many grand slams does Rafael Nadal have?,0,0,No Conflict,No Conflict
+What is the name of the world's fastest supercomputer?,3,0,Outdated,No Conflict
+how many countries participated for the first time in the 2014 olympic winter games,0,0,No Conflict,No Conflict
+how many students attend university of texas at austin,3,1,Outdated,Complementary
+who was the last person executed,3,1,Outdated,Complementary
+what is the most obese province,1,3,Complementary,Outdated
+Which GitHub repo has the most stars?,0,0,No Conflict,No Conflict
+Who is the chancellor of UMass Amherst?,0,0,No Conflict,No Conflict
+Does drinking alcohol literally kill brain cells?,2,2,Conflicting Opinions,Conflicting Opinions
+Who is the X Corp.'s CEO?,0,0,No Conflict,No Conflict
+who was the president during 1971 war,1,1,Complementary,Complementary
+who has the biggest airport,1,1,Complementary,Complementary
+who is the only leader to be elected pm three times,1,0,Complementary,No Conflict
+Who are the latest champions of the North America's oldest professional sports trophy?,0,0,No Conflict,No Conflict
+What is the most powerful processor on the latest iPhone models?,2,0,Conflicting Opinions,No Conflict
+Can penguins survive in warm weather?,1,2,Complementary,Conflicting Opinions
+Is a degree necessary to become a successful graphic designer?,2,2,Conflicting Opinions,Conflicting Opinions
+Can cats truly understand human emotions?,2,2,Conflicting Opinions,Conflicting Opinions
+Can the Paleo diet cause thyroid problems?,0,2,No Conflict,Conflicting Opinions
+Is it safe to place dental implants in one day?,2,2,Conflicting Opinions,Conflicting Opinions
+Where will the upcoming International Mathematical Olympiad (IMO) be hosted?,0,3,No Conflict,Outdated
+when does a car have to be smogged,1,1,Complementary,Complementary
+Does hypnotherapy work for smoking cessation?,2,2,Conflicting Opinions,Conflicting Opinions
+when did dvds come out,1,1,Complementary,Complementary
+Does talking to plants help them grow?,2,2,Conflicting Opinions,Conflicting Opinions
+Can beer help with lactation in nursing mothers?,2,2,Conflicting Opinions,Conflicting Opinions
+When was the abacus invented in ancient china?,2,0,Conflicting Opinions,No Conflict
+who was elected president in january 2006,0,1,No Conflict,Complementary
+Can intermittent fasting slow down the aging process?,2,2,Conflicting Opinions,Conflicting Opinions
+who permitted the british to establish their company,0,1,No Conflict,Complementary
+Does blood turn blue when it is deoxygenated?,0,2,No Conflict,Conflicting Opinions
+which city is the fashion capital,2,1,Conflicting Opinions,Complementary
+what city has the most population in the us,0,3,No Conflict,Outdated
+Can horses vomit?,2,2,Conflicting Opinions,Conflicting Opinions
+who holds the record for most gold medals,0,0,No Conflict,No Conflict
+Does melting sea ice contribute to sea level rise?,2,2,Conflicting Opinions,Conflicting Opinions
+Do cameras reduce crime?,2,2,Conflicting Opinions,Conflicting Opinions
+Who is the latest French player to win the Ballon d'Or?,0,0,No Conflict,No Conflict
+who won the 2017 open tennis tournament,0,0,No Conflict,No Conflict
+who sings the happiest girl,1,1,Complementary,Complementary
+how much maternity leave are mothers entitled to,1,1,Complementary,Complementary
+Can women attend universities in Afghanistan?,0,1,No Conflict,Complementary
+when was christianity became the official religion,1,1,Complementary,Complementary
+What is Croatia's current national currency?,3,3,Outdated,Outdated
+How many children does Leonardo DiCaprio have?,0,0,No Conflict,No Conflict
+How many novels has Stephen King published?,3,0,Outdated,No Conflict
+who wrote the song photograph by ringo starr?,0,0,No Conflict,No Conflict
+who was the first elected president of pakistan?,0,0,No Conflict,No Conflict
+what is the meaning of auv in cars?,1,1,Complementary,Complementary
+"How many publicly traded American companies have, at any point, had a market capitalization in excess of $3 trillion?",3,0,Outdated,No Conflict
+Do Tesla and X Corp. have the same CEO?,3,0,Outdated,No Conflict
